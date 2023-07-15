@@ -33,6 +33,7 @@ importFrom(stats, dist, hclust, setNames)
 export(
     analyzeFeatures,
     analyzeVariants,
+    annotateSGVariants,
     annotate,
     convertToSGFeatures,
     convertToTxFeatures,
